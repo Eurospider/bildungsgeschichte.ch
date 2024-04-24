@@ -29,6 +29,16 @@ Otherwise:
 
 Then copy the `/build` folder to your web server.
 
+## Github Deployment Hook
+
+https://developer.github.com/webhooks/creating/
+
+https://github.com/CodeWithGrid/webhook-deployer
+
+keygen
+add pub key as deploy key
+
+
 ## Common errrors when building on Archlinux
 
 Your PATH must contain the `node_modules/.bin` folder, otherwise `react-snap` is not found.
